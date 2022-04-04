@@ -1,5 +1,7 @@
 # Identification of GCA specific T cell clones
 
+Due to my recent Covid infection, I cannot come to the workshop in person. If you are interested in my work or have any question, please do not hesitate to contact me at wbr@zurich.ibm.com 
+
 ## Background/ Objectives 
 Arterial wall inflammation in giant cell arteritis (GCA) is characterised by T-cell infiltration and the formation of granulomas with macrophages. A strong MHC II association with GCA suggests that antigen-specific immune processes may play a crucial role in GCA pathogenesis. However, to date there have been limited studies investigating the prevalence of T-cell clones in GCA lesions. Here we present an analysis on T-cell receptor (TCR) repertoires of blood and temporal artery biopsy samples from 26 GCA patients. We aimed to identify disease specific T-cell clones shared by GCA patients. Analysis of TCR sequences is a first step towards identifying a potential auto-antigen. 
 ## Methods
